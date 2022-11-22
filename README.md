@@ -16,6 +16,7 @@ The Password generator will provide a password between 10 and 64 characters base
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
 ![Password generator demo](./assets/05-javascript-challenge-demo.png)
+
 ## Usage
 GIVEN I need a new secure password
 WHEN I click the button to generate a password
@@ -33,6 +34,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is written to the page
 
+![Password generator demo live](./assets/password-generator-live-demo.gif)
 
 ## License
 MIT
